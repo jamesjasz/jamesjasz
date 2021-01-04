@@ -34,7 +34,7 @@
 <!--START_SECTION:activity-->
 1. 🎮 Play Genshin
 2. 🔥 burns some dota mmr
-3. 💪 beat leetcode easy question 😂
+3. 💪 beat easy leetcode question 😂
 4. 🏃 Learn software engineer things
 <!--END_SECTION:activity-->
 
