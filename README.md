@@ -1,6 +1,6 @@
 ### Hi there, I'm James
 
-## I'm a person who likes about AI and software engineer things
+## I'm a person who likes about AI and software engineering things
 
 - 🌱 I’m currently learning about web development
 
